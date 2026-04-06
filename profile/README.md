@@ -27,7 +27,8 @@
 | URL | Description |
 |---|---|
 | [WhatsApp Link Generator](https://walink.hahay.group/) | WhatsApp link generator tool |
-| [QR Code Generator](https://qr.hahay.group) | QR code generator utility |
+| [QR Code Generator](https://qr.hahay.group) | QR code generator tool |
+| [Invoice Generator](https://invoice.hahay.group) | Invoice generator tool |
 
 ### 🤖 Automation & Internal
 
