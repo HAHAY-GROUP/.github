@@ -30,6 +30,7 @@
 | [QR Code Generator](https://qr.hahay.group) | QR code generator tool |
 | [Invoice Generator](https://invoice.hahay.group) | Invoice generator tool |
 | [Keyboard Stroke Tester](https://keyboard.hahay.group) | Keyboard test tool |
+| [Username Checker](https://username-checker.hahay.group/) | Username checker tool |
 
 ### 🤖 Automation & Internal
 
