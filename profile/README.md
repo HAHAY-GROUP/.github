@@ -10,7 +10,10 @@
 
 **🇮🇩 Based in Indonesia** | Driving digital transformation through innovation.
 
-🌐 Website: [hahay.group](https://hahay.group)
+🌐 Website: 
+- [HAHAY Group](https://hahay.group)
+- [HAHAY Games](https://games.hahay.group)
+- [HAHAY Labs](https://labs.hahay.group)
 
 ---
 
@@ -31,6 +34,18 @@
 | [Invoice Generator](https://invoice.hahay.group) | Invoice generator tool |
 | [Keyboard Stroke Tester](https://keyboard.hahay.group) | Keyboard test tool |
 | [Username Checker](https://username-checker.hahay.group/) | Username checker tool |
+| [Color Palette Generator](https://color-palette.hahay.group/) | Color palette generator tool |
+| [Gradient Generator](https://gradient-generator.hahay.group/) | Color palette generator tool |
+| [Case Converter](https://case-converter.hahay.group/) | String manipulation tool |
+
+<div align="center">
+  
+[All Hahay Labs Utils Tools](https://hahay.group)
+
+</div>
+
+---
+
 
 ### 🤖 Automation & Internal
 
