@@ -21,13 +21,13 @@
 
 ### 💒 Wedding Tech
 
-| URL | Description |
+| URL/Name | Description |
 |---|---|
 | [Wedding Planner](https://wedding-plannernya.hahay.group/) | Digital wedding invitation & planning platform |
 
 ### 🔧 Utilities & Tools
 
-| URL | Description |
+| URL/Name | Description |
 |---|---|
 | [WhatsApp Link Generator](https://walink.hahay.group/) | WhatsApp link generator tool |
 | [QR Code Generator](https://qr.hahay.group) | QR code generator tool |
@@ -37,6 +37,15 @@
 | [Color Palette Generator](https://color-palette.hahay.group/) | Color palette generator tool |
 | [Gradient Generator](https://gradient-generator.hahay.group/) | Color palette generator tool |
 | [Case Converter](https://case-converter.hahay.group/) | String manipulation tool |
+
+## ✨ Selena Zefanya
+
+| URL/Name | Description |
+|---|---|
+| Selena Zefanya | Selena Zefanya AI Agent for automation and assistant |
+| Selena Zefanya Hermes Starter | Hermes Agent starter based on Selena Zefanya's framework/workflows |
+| [Selena Zefanya Skills](https://github.com/HAHAY-GROUP/selena-skills) | Skills curated by Selena Zefanya |
+| [Selena Zefanya Codex Companion](https://github.com/HAHAY-GROUP/selena-zefanya-codex-pet) | Selena Zefanya's Edition of PET Sprites for Codex Companion |
 
 <div align="center">
   
