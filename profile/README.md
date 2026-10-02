@@ -72,6 +72,8 @@ Interactive lessons for curious minds: predict, experiment, understand, and prac
 | [Compound Interest & Inflation Lab](https://interest.hahay.group) | Explore how time, contributions, interest, and inflation change the value of money. |
 | [Cooking Lab](https://cooking.hahay.group) | Learn the reasons behind heat, texture, flavor, and safer kitchen habits. |
 | [Driving Lab](https://driving.hahay.group) | Practice spotting hazards, reading the road, and understanding stopping and sight lines. |
+| [Physics Workshop](https://physics.hahay.group) | Build 3D machines, solve workshop missions, and understand force, torque, work, and friction. |
+| [Circuit Quest](https://circuits.hahay.group) | Connect a 3D electronics kit and learn current, resistance, switches, and series or parallel circuits. |
 
 ## ✨ Selena Zefanya
 
