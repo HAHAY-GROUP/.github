@@ -74,6 +74,8 @@ Interactive lessons for curious minds: predict, experiment, understand, and prac
 | [Driving Lab](https://driving.hahay.group) | Practice spotting hazards, reading the road, and understanding stopping and sight lines. |
 | [Physics Workshop](https://physics.hahay.group) | Build 3D machines, solve workshop missions, and understand force, torque, work, and friction. |
 | [Circuit Quest](https://circuits.hahay.group) | Connect a 3D electronics kit and learn current, resistance, switches, and series or parallel circuits. |
+| [Plant Care Quest](https://plants.hahay.group) | Care for a miniature plant and learn how water, light, roots, nutrients, and responsive observation work together. |
+| [Eco Town Quest](https://eco.hahay.group) | Solve 3D town missions about waste, water, energy, travel, and connected green spaces. |
 
 ## ✨ Selena Zefanya
 
