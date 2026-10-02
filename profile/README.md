@@ -59,7 +59,21 @@ Tools for design, documents, text, and everyday work.
 | [Test Data Generator](https://test-data.hahay.group) | Build sample datasets with a custom schema and export JSON or CSV. |
 | [Cost & Selling Price Calculator](https://pricing.hahay.group) | Calculate product costs, compare selling prices, and understand your profit. |
 
-[Browse all HAHAY Labs tools and product previews](https://labs.hahay.group/#catalogue).
+### 📚 HAHAY Labs — Learning Labs
+
+Interactive lessons for curious minds: predict, experiment, understand, and practice.
+
+| Product | What you learn |
+|---|---|
+| [CSS Layout Lab](https://css-layout.hahay.group) | Understand the box model, Flexbox, and Grid through live layout experiments. |
+| [Algorithm Visualizer](https://algorithms.hahay.group) | Follow searches and sorts step by step, predict what comes next, and compare their work. |
+| [Logic & Boolean Playground](https://logic.hahay.group) | Build conditions, explore logic gates, and prove ideas with truth tables. |
+| [HTTP Learning Lab](https://http-lab.hahay.group) | Trace requests, explore responses, and understand caching and browser origin rules. |
+| [Compound Interest & Inflation Lab](https://interest.hahay.group) | Explore how time, contributions, interest, and inflation change the value of money. |
+| [Cooking Lab](https://cooking.hahay.group) | Learn the reasons behind heat, texture, flavor, and safer kitchen habits. |
+| [Driving Lab](https://driving.hahay.group) | Practice spotting hazards, reading the road, and understanding stopping and sight lines. |
+
+[Explore all HAHAY Labs products and previews](https://labs.hahay.group/#catalogue).
 
 ## ✨ Selena Zefanya
 
@@ -72,7 +86,7 @@ Tools for design, documents, text, and everyday work.
 
 <div align="center">
   
-[All HAHAY Labs Utilities](https://labs.hahay.group)
+[Explore HAHAY Labs](https://labs.hahay.group)
 
 </div>
 
