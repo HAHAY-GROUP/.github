@@ -50,6 +50,16 @@ Tools for design, documents, text, and everyday work.
 | [Letter Generator](https://letters.hahay.group) | Fill letter templates and export documents ready to review. |
 | [Network Tool](https://network.hahay.group) | Convert request snippets between cURL, fetch, XHR, and HTTP. |
 
+| [Markdown Editor](https://markdown.hahay.group) | Write Markdown with a live preview, then export polished documents. |
+| [Cron Expression Builder](https://cron.hahay.group) | Build schedules, understand every field, and preview upcoming runs. |
+| [Regex Playground](https://regex.hahay.group) | Explore patterns, inspect matches, and learn how regular expressions work. |
+| [Unit Converter](https://units.hahay.group) | Convert measurements with clear units and useful precision. |
+| [JWT Inspector](https://jwt.hahay.group) | Read token claims, understand expiration, and inspect signatures. |
+| [SQL Formatter](https://sql-formatter.hahay.group) | Format SQL across dialects and make queries easier to read. |
+| [Meta Tag Generator & Preview](https://meta-tags.hahay.group) | Create search and social metadata with previews and ready-to-copy tags. |
+| [Test Data Generator](https://test-data.hahay.group) | Build sample datasets with a custom schema and export JSON or CSV. |
+| [Cost & Selling Price Calculator](https://pricing.hahay.group) | Calculate product costs, compare selling prices, and understand your profit. |
+
 [Browse all HAHAY Labs tools and product previews](https://labs.hahay.group/#catalogue).
 
 ## ✨ Selena Zefanya
