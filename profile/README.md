@@ -73,8 +73,6 @@ Interactive lessons for curious minds: predict, experiment, understand, and prac
 | [Cooking Lab](https://cooking.hahay.group) | Learn the reasons behind heat, texture, flavor, and safer kitchen habits. |
 | [Driving Lab](https://driving.hahay.group) | Practice spotting hazards, reading the road, and understanding stopping and sight lines. |
 
-[Explore all HAHAY Labs products and previews](https://labs.hahay.group/#catalogue).
-
 ## ✨ Selena Zefanya
 
 | URL/Name | Description |
@@ -86,7 +84,7 @@ Interactive lessons for curious minds: predict, experiment, understand, and prac
 
 <div align="center">
   
-[Explore HAHAY Labs](https://labs.hahay.group)
+[Explore all HAHAY Labs products and previews](https://labs.hahay.group/#catalogue).
 
 </div>
 
