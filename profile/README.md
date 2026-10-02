@@ -27,30 +27,30 @@
 
 ### 🔧 HAHAY Labs — Utilities & Tools
 
-Small browser utilities, with no installation required. The latest additions run fully client-side and need no backend or database.
+Tools for design, documents, text, and everyday work.
 
-| Product | What it does | Status |
-|---|---|---|
-| [Color Palette](https://color-palette.hahay.group) | Build balanced palettes and export color values. | Live |
-| [Gradient Generator](https://gradient-generator.hahay.group) | Shape gradients and copy production-ready CSS. | Live |
-| [Keyboard Tester](https://keyboard.hahay.group) | Test every key on a visual keyboard. | Live |
-| [Invoice Generator](https://invoice.hahay.group) | Create invoices with flexible totals and PDF export. | Live |
-| [WA Link Generator](https://walink.hahay.group) | Build WhatsApp links with ready-to-send messages. | Live |
-| [QR Generator](https://qr.hahay.group) | Create QR codes and download PNG or SVG. | Live |
-| [Case Converter](https://case-converter.hahay.group) | Convert and clean up text in one click. | Live |
-| Username Checker | Explore username availability across platforms. | Coming soon |
-| JSON Formatter | Format, validate, and explore JSON without losing numeric precision. | Preview ready · deployment pending |
-| UTM Link Builder | Build campaign URLs with tidy, reusable tracking parameters. | Preview ready · deployment pending |
-| Text Diff Checker | Compare text and export readable patches. | Preview ready · deployment pending |
-| Timestamp Converter | Convert Unix timestamps and dates across time zones. | Preview ready · deployment pending |
-| Password & UUID Generator | Generate random passwords and UUIDs using browser cryptography. | Preview ready · deployment pending |
-| CSV / JSON Converter | Convert tabular data with reliable quoting and clear controls. | Preview ready · deployment pending |
-| URL Encoder / Decoder | Encode URLs, decode components, and inspect query parameters. | Preview ready · deployment pending |
-| Encryptor / Decryptor | Hash, verify, encode, and encrypt using browser-side tools. | Preview ready · deployment pending |
-| Letter Generator | Fill letter templates and export documents ready to review. | Preview ready · deployment pending |
-| Network Tool | Convert request snippets between cURL, fetch, XHR, and HTTP. | Preview ready · deployment pending |
+| Product | What it does |
+|---|---|
+| [Color Palette](https://color-palette.hahay.group) | Build balanced palettes and export color values. |
+| [Gradient Generator](https://gradient-generator.hahay.group) | Shape gradients and copy production-ready CSS. |
+| [Keyboard Tester](https://keyboard.hahay.group) | Test every key on a visual keyboard. |
+| [Invoice Generator](https://invoice.hahay.group) | Create invoices with flexible totals and PDF export. |
+| [WA Link Generator](https://walink.hahay.group) | Build WhatsApp links with ready-to-send messages. |
+| [QR Generator](https://qr.hahay.group) | Create QR codes and download PNG or SVG. |
+| [Case Converter](https://case-converter.hahay.group) | Convert and clean up text in one click. |
+| [Username Checker](https://username-checker.hahay.group) | Explore username availability across platforms. |
+| [JSON Formatter](https://json-formatter.hahay.group) | Format, validate, and explore JSON without losing numeric precision. |
+| [UTM Link Builder](https://utm-builder.hahay.group) | Build campaign URLs with tidy, reusable tracking parameters. |
+| [Text Diff Checker](https://text-diff.hahay.group) | Compare text and export readable patches. |
+| [Timestamp Converter](https://timestamp.hahay.group) | Convert Unix timestamps and dates across time zones. |
+| [Password & UUID Generator](https://password-uuid.hahay.group) | Generate passwords and UUIDs with customizable options. |
+| [CSV / JSON Converter](https://csv-json.hahay.group) | Convert tabular data with reliable quoting and clear controls. |
+| [URL Encoder / Decoder](https://url-encoder.hahay.group) | Encode URLs, decode components, and inspect query parameters. |
+| [Encryptor / Decryptor](https://crypto.hahay.group) | Hash, verify, encode, encrypt, and decrypt your text. |
+| [Letter Generator](https://letters.hahay.group) | Fill letter templates and export documents ready to review. |
+| [Network Tool](https://network.hahay.group) | Convert request snippets between cURL, fetch, XHR, and HTTP. |
 
-[Browse the catalogue and product previews](https://labs.hahay.group/#catalogue). New utilities are preparing for release; their source repositories will remain private under HAHAY-GROUP.
+[Browse all HAHAY Labs tools and product previews](https://labs.hahay.group/#catalogue).
 
 ## ✨ Selena Zefanya
 
