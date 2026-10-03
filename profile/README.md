@@ -76,6 +76,8 @@ Interactive lessons for curious minds: predict, experiment, understand, and prac
 | [Circuit Quest](https://circuits.hahay.group) | Connect a 3D electronics kit and learn current, resistance, switches, and series or parallel circuits. |
 | [Plant Care Quest](https://plants.hahay.group) | Care for a miniature plant and learn how water, light, roots, nutrients, and responsive observation work together. |
 | [Eco Town Quest](https://eco.hahay.group) | Solve 3D town missions about waste, water, energy, travel, and connected green spaces. |
+| [Checkout Quest](https://checkout.hahay.group) | Run a miniature 3D market and learn quantities, discounts, weighted prices, payments, and change. |
+| [Table Rush](https://table-rush.hahay.group) | Coordinate a miniature 3D restaurant and learn seating, orders, priorities, accurate bills, and table resets. |
 
 ## ✨ Selena Zefanya
 
